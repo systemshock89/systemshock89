@@ -13,7 +13,7 @@ My name is Sergey. I'm a frontend developer.
 
 | № | Repo | Demonstration | Description |
 | -- | -- | -- | -- |
-| 1 | [Miami slider](https://github.com/systemshock89/demo-miami-slider) | [Demo](https://systemshock89.github.io/demo-miami-slider/) | slider with parallax effect, slides highlighting, smooth scrolling with mouse wheel, zooming of images when clicked |
+| 1 | [Miami slider](https://github.com/systemshock89/demo-miami-slider) | [Demo](https://systemshock89.github.io/demo-miami-slider/) | Slider with parallax effect, slides highlighting, smooth scrolling with mouse wheel, zooming of images when clicked |
 | 2 | [3D-animate](https://github.com/systemshock89/demo-3d-animate) | [Demo](https://systemshock89.github.io/demo-3d-animate/) | Realization of 3D effect of page blocks on mouse movement and animated cursor using gsap (GreenSock) |
 | 3 | [Gallery scroll](https://github.com/systemshock89/demo-gallery-scroll) | [Demo](https://systemshock89.github.io/demo-gallery-scroll/) | Smooth pop-out of page elements when scrolling |
 | 4 | [3D-scroll](https://github.com/systemshock89/demo-3d-scroll) | [Demo](https://systemshock89.github.io/demo-3d-scroll/) | Page scrolling in depth, slides with images and videos of different sizes, button to turn on melody |
