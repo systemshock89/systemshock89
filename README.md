@@ -11,7 +11,7 @@ My name is Sergey. I'm a frontend developer.
 ## 💻 My demo projects that I created to explore certain approaches and practices
 #### (JS/HTML/CSS)
 
-|  | Repo | Demonstration | Description |
+| № | Repo | Demonstration | Description |
 | -- | -- | -- | -- |
 | 1 | [Miami slider](https://github.com/systemshock89/demo-miami-slider) | [Demo](https://systemshock89.github.io/demo-miami-slider/) | slider with parallax effect, slides highlighting, smooth scrolling with mouse wheel, zooming of images when clicked |
 | 2 | [3D-animate](https://github.com/systemshock89/demo-3d-animate) | [Demo](https://systemshock89.github.io/demo-3d-animate/) | Realization of 3D effect of page blocks on mouse movement and animated cursor using gsap (GreenSock) |
