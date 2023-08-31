@@ -1,14 +1,33 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/systemshock89/systemshock89/raw/main/img/Hi.gif" height="32">
 My name is Sergey. I'm a frontend developer.
 
 ## 🛠️ My stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-## 💻 My demo projects that I created to explore certain approaches and practices
+## 🛠️ Tools
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## ⛳️ My projects
+#### (JS/HTML/CSS/PHP/MySQL)
+| № | Repo | Site | Description |
+| -- | -- | -- | -- |
+| 1 | private | [concoste.com](https://concoste.com/) | Furniture catalog with animated elements |
+| 2 | private | [zavod-setok.ru](https://zavod-setok.ru/) | Factory catalog, where products are shown as cards/table with filter by parameters |
+| 3 | private | [kotel-suvorov.ru](https://kotel-suvorov.ru/) | Online store of heating boilers |
+
+## 💻 My demos that I created to explore certain approaches and practices
 #### (JS/HTML/CSS)
 
 | № | Repo | Demonstration | Description |
