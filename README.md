@@ -21,12 +21,12 @@ My name is Sergey. I'm a frontend developer.
 
 ## ⛳️ My projects
 #### (JS/HTML/CSS/PHP/MySQL)
-| № | Repo | Site | Description |
+| № | Repo | Demonstration | Description |
 | -- | -- | -- | -- |
-| 1 | [Frontend only](https://github.com/systemshock89/monino-frontend) | [monino-perevalka.ru](https://monino-perevalka.ru/) | Site of nonmetallic materials |
-| 2 | private | [concoste.com](https://concoste.com/) | Furniture catalog with animated elements |
-| 3 | private | [zavod-setok.ru](https://zavod-setok.ru/) | Factory catalog, where products are shown as cards/table with filter by parameters |
-| 4 | private | [kotel-suvorov.ru](https://kotel-suvorov.ru/) | Online store of heating boilers |
+| 1 | [Frontend only](https://github.com/systemshock89/monino-frontend) | **Site:** [monino-perevalka.ru](https://monino-perevalka.ru/) <br> **Frontend pages:** [Index page](https://systemshock89.github.io/monino-frontend/), [Services](https://systemshock89.github.io/monino-frontend/services.html), [Services inner](https://systemshock89.github.io/monino-frontend/services-inner.html), [Catalog](https://systemshock89.github.io/monino-frontend/catalog.html), [Product](https://systemshock89.github.io/monino-frontend/product.html) | Site of nonmetallic materials |
+| 2 | private | **Site:** [concoste.com](https://concoste.com/) | Furniture catalog with animated elements |
+| 3 | private | **Site:** [zavod-setok.ru](https://zavod-setok.ru/) | Factory catalog, where products are shown as cards/table with filter by parameters |
+| 4 | private | **Site:** [kotel-suvorov.ru](https://kotel-suvorov.ru/) | Online store of heating boilers |
 
 ## 💻 My demos that I created to explore certain approaches and practices
 #### (JS/HTML/CSS)
