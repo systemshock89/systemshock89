@@ -23,7 +23,7 @@ My name is Sergey. I'm a frontend developer.
 #### (JS/HTML/CSS/PHP/MySQL)
 | № | Repo | Site | Description |
 | -- | -- | -- | -- |
-| 1 | [desing only](https://github.com/systemshock89/monino-design) | [monino-perevalka.ru](https://monino-perevalka.ru/) | Site of nonmetallic materials |
+| 1 | [Frontend only](https://github.com/systemshock89/monino-frontend) | [monino-perevalka.ru](https://monino-perevalka.ru/) | Site of nonmetallic materials |
 | 2 | private | [concoste.com](https://concoste.com/) | Furniture catalog with animated elements |
 | 3 | private | [zavod-setok.ru](https://zavod-setok.ru/) | Factory catalog, where products are shown as cards/table with filter by parameters |
 | 4 | private | [kotel-suvorov.ru](https://kotel-suvorov.ru/) | Online store of heating boilers |
