@@ -26,13 +26,14 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 | № | Repo | Demo | Stack | Description |
 | -- | -- | -- | -- | -- |
 | 1 | [Project](https://github.com/systemshock89/react-redux-hero-admin-panel) | [react-redux-hero-admin-panel](https://systemshock89.github.io/react-redux-hero-admin-panel/) | React/Redux/JS/HTML/SCSS | Hero admin panel with functions show, add, delete and filter list of heroes in DB.<br> Used React, React-redux, Redux-toolkit and pattern when action creators and reducers combined in slice |
-| 2 | [Project](https://github.com/systemshock89/react-marvel) | [react-marvel](https://systemshock89.github.io/react-marvel/) | React/JS/HTML/SCSS | React Marvel information portal - SPA with multiple pages structure. |
+| 2 | [Project](https://github.com/systemshock89/react-marvel) | [react-marvel](https://systemshock89.github.io/react-marvel/) | React/JS/HTML/SCSS | React Marvel information portal - SPA with multiple pages structure |
 | 3 | [Project](https://github.com/systemshock89/react-employees) | [react-employees](https://systemshock89.github.io/react-employees/) | React/JS/HTML/SCSS | Simple SPA with sorting, adding/removing an employee |
-| 4 | [Frontend only](https://github.com/systemshock89/monino-frontend) | **Site:** [monino-perevalka.ru](https://monino-perevalka.ru/) <br> **Frontend pages:** [Index page](https://systemshock89.github.io/monino-frontend/), [Services](https://systemshock89.github.io/monino-frontend/services.html), [Services inner](https://systemshock89.github.io/monino-frontend/services-inner.html), [Catalog](https://systemshock89.github.io/monino-frontend/catalog.html), [Product](https://systemshock89.github.io/monino-frontend/product.html) | JS/HTML/SCSS/PHP/MySQL | Site of nonmetallic materials |
+| 4 | [Frontend only](https://github.com/systemshock89/monino-frontend) | **Site:** [monino-perevalka.ru](https://monino-perevalka.ru/) <br> **Frontend pages:** [Index page](https://systemshock89.github.io/monino-frontend/), [Services](https://systemshock89.github.io/monino-frontend/services.html), [Services inner](https://systemshock89.github.io/monino-frontend/services-inner.html), [Catalog](https://systemshock89.github.io/monino-frontend/catalog.html), [Product](https://systemshock89.github.io/monino-frontend/product.html) | JS/HTML/SCSS/PHP/MySQL | Site of sale nonmetallic materials |
 | 5 | private (NDA) | [doctorportenko.ru](http://doctorportenko.ru/) | JS/HTML/SCSS/PHP/MySQL | Dental clinic,<br> JS with modules, optimized for fast page load speed and SEO |
-| 6 | private (NDA) | [concoste.com](https://concoste.com/) | JS/HTML/SCSS/PHP/MySQL | Furniture catalog with animated elements |
-| 7 | private (NDA) | [zavod-setok.ru](https://zavod-setok.ru/) | JS/HTML/SCSS/PHP/MySQL | Factory catalog, where products are shown as cards/table with filter by parameters |
-| 8 | private (NDA) | [kotel-suvorov.ru](https://kotel-suvorov.ru/) | JS/HTML/SCSS/PHP/MySQL | Online store of heating boilers |
+| 6 | [Project](https://github.com/systemshock89/js-app-food) | [Food](https://systemshock89.github.io/js-app-food/) | JS/HTML/SCSS | Service food delivery on native js |
+| 7 | private (NDA) | [concoste.com](https://concoste.com/) | JS/HTML/SCSS/PHP/MySQL | Furniture catalog with animated elements |
+| 8 | private (NDA) | [zavod-setok.ru](https://zavod-setok.ru/) | JS/HTML/SCSS/PHP/MySQL | Factory catalog, where products are shown as cards/table with filter by parameters |
+| 9 | private (NDA) | [kotel-suvorov.ru](https://kotel-suvorov.ru/) | JS/HTML/SCSS/PHP/MySQL | Online store of heating boilers |
 
 ## ⛳️  My demos that I created to explore interesting new technologies
 
