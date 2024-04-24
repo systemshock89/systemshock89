@@ -1,8 +1,10 @@
-### Hi there <img src="https://github.com/systemshock89/systemshock89/raw/main/img/Hi.gif" height="32">
-My name is Sergey. I'm a frontend developer.
+### Hi, I'm Sergey <img src="https://github.com/systemshock89/systemshock89/raw/main/img/Hi.gif" height="32">
+I am a **Frontend developer (React, Redux, JS)** with extensive experience **css/html** coding and **backend** developer background.
 
 ## 🛠️ My stack
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -10,7 +12,7 @@ My name is Sergey. I'm a frontend developer.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-## 🛠️ Tools
+## ⚡ Tools
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
@@ -18,33 +20,41 @@ My name is Sergey. I'm a frontend developer.
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## ⛳️ My projects
-#### (JS/HTML/CSS/PHP/MySQL)
+## 💻 My projects
+| № | Repo | Demo | Stack | Description |
+| -- | -- | -- | -- | -- |
+| 1 | [Project](https://github.com/systemshock89/react-redux-hero-admin-panel) | [react-redux-hero-admin-panel](https://systemshock89.github.io/react-redux-hero-admin-panel/) | React/Redux/JS/HTML/SCSS | Hero admin panel with functions show, add, delete and filter list of heroes in DB.<br> Used React, React-redux, Redux-toolkit and pattern when action creators and reducers combined in slice |
+| 2 | [Project](https://github.com/systemshock89/react-marvel) | [react-marvel](https://systemshock89.github.io/react-marvel/) | React/JS/HTML/SCSS | React Marvel information portal - SPA with multiple pages structure. |
+| 3 | [Project](https://github.com/systemshock89/react-employees) | [react-employees](https://systemshock89.github.io/react-employees/) | React/JS/HTML/SCSS | Simple SPA with sorting, adding/removing an employee |
+| 4 | [Frontend only](https://github.com/systemshock89/monino-frontend) | **Site:** [monino-perevalka.ru](https://monino-perevalka.ru/) <br> **Frontend pages:** [Index page](https://systemshock89.github.io/monino-frontend/), [Services](https://systemshock89.github.io/monino-frontend/services.html), [Services inner](https://systemshock89.github.io/monino-frontend/services-inner.html), [Catalog](https://systemshock89.github.io/monino-frontend/catalog.html), [Product](https://systemshock89.github.io/monino-frontend/product.html) | JS/HTML/SCSS/PHP/MySQL | Site of nonmetallic materials |
+| 5 | private (NDA) | [doctorportenko.ru](http://doctorportenko.ru/) | JS/HTML/SCSS/PHP/MySQL | Dental clinic,<br> JS with modules, optimized for fast page load speed and SEO |
+| 6 | private (NDA) | [concoste.com](https://concoste.com/) | JS/HTML/SCSS/PHP/MySQL | Furniture catalog with animated elements |
+| 7 | private (NDA) | [zavod-setok.ru](https://zavod-setok.ru/) | JS/HTML/SCSS/PHP/MySQL | Factory catalog, where products are shown as cards/table with filter by parameters |
+| 8 | private (NDA) | [kotel-suvorov.ru](https://kotel-suvorov.ru/) | JS/HTML/SCSS/PHP/MySQL | Online store of heating boilers |
+
+## ⛳️  My demos that I created to explore interesting new technologies
+
 | № | Repo | Demonstration | Description |
 | -- | -- | -- | -- |
-| 1 | [Frontend only](https://github.com/systemshock89/monino-frontend) | **Site:** [monino-perevalka.ru](https://monino-perevalka.ru/) <br> **Frontend pages:** [Index page](https://systemshock89.github.io/monino-frontend/), [Services](https://systemshock89.github.io/monino-frontend/services.html), [Services inner](https://systemshock89.github.io/monino-frontend/services-inner.html), [Catalog](https://systemshock89.github.io/monino-frontend/catalog.html), [Product](https://systemshock89.github.io/monino-frontend/product.html) | Site of nonmetallic materials |
-| 2 | private | **Site:** [concoste.com](https://concoste.com/) | Furniture catalog with animated elements |
-| 3 | private | **Site:** [zavod-setok.ru](https://zavod-setok.ru/) | Factory catalog, where products are shown as cards/table with filter by parameters |
-| 4 | private | **Site:** [kotel-suvorov.ru](https://kotel-suvorov.ru/) | Online store of heating boilers |
+| 1 | [react-formik-example](https://github.com/systemshock89/react-formik-example) | [Demo](https://systemshock89.github.io/react-formik-example/) | React simple form with Formik and Yup |
+| 2 | [Miami slider](https://github.com/systemshock89/demo-miami-slider) | [Demo](https://systemshock89.github.io/demo-miami-slider/) | Slider with parallax effect, slides highlighting, smooth scrolling with mouse wheel, zooming of images when clicked |
+| 3 | [3D-animate](https://github.com/systemshock89/demo-3d-animate) | [Demo](https://systemshock89.github.io/demo-3d-animate/) | Realization of 3D effect of page blocks on mouse movement and animated cursor using gsap (GreenSock) |
+| 4 | [Gallery scroll](https://github.com/systemshock89/demo-gallery-scroll) | [Demo](https://systemshock89.github.io/demo-gallery-scroll/) | Smooth pop-out of page elements when scrolling |
+| 5 | [3D-scroll](https://github.com/systemshock89/demo-3d-scroll) | [Demo](https://systemshock89.github.io/demo-3d-scroll/) | Page scrolling in depth, slides with images and videos of different sizes, button to turn on melody |
+| 6 | [Slider parallax](https://github.com/systemshock89/demo-slider-parallax) | [Demo](https://systemshock89.github.io/demo-slider-parallax/) | Slider with image layers parallax effect, particles on canvas |
+| 7 | [Scroll parallax](https://github.com/systemshock89/demo-scroll-parallax) | [Demo](https://systemshock89.github.io/demo-scroll-parallax/) | Scroll with parallax effect of different page layers |
+| 8 | [Lens effect](https://github.com/systemshock89/demo-lens-effect) | [Demo](https://systemshock89.github.io/demo-lens-effect/) | 3D-rotation effect on mouse movement, rain on canvas |
+| 9 | [Draggable gallery](https://github.com/systemshock89/demo-draggable-gallery) | [Demo](https://systemshock89.github.io/demo-draggable-gallery/) | Gallery with images in masonry layout, drag and drop scrolling, light/dark theme depends on OS selection |
+| 10 | [Scroll portfolio](https://github.com/systemshock89/demo-scroll-portfolio) | [Demo](https://systemshock89.github.io/demo-scroll-portfolio/) | Portfolio slider with mouse wheel scrolling |
+| 11 | [Floating image](https://github.com/systemshock89/demo-floating-image) | [Demo](https://systemshock89.github.io/demo-floating-image/) | Floating image appears when hovering over a section |
+| 12 | [3D-slider](https://github.com/systemshock89/demo-3d-slider) | [Demo](https://systemshock89.github.io/demo-3d-slider/) | Slider with pseudo 3D-images, glow and fog animation in the background |
+| 13 | [Form elements](https://github.com/systemshock89/demo-form-elements/) | [Demo](https://systemshock89.github.io/demo-form-elements/) | Realization light/dark theme on form elements: custom select, radio, checkox, saving entered data on page refresh |
 
-## 💻 My demos that I created to explore certain approaches and practices
-#### (JS/HTML/CSS)
+## 📈 Stats and widgets
 
-| № | Repo | Demonstration | Description |
-| -- | -- | -- | -- |
-| 1 | [Miami slider](https://github.com/systemshock89/demo-miami-slider) | [Demo](https://systemshock89.github.io/demo-miami-slider/) | Slider with parallax effect, slides highlighting, smooth scrolling with mouse wheel, zooming of images when clicked |
-| 2 | [3D-animate](https://github.com/systemshock89/demo-3d-animate) | [Demo](https://systemshock89.github.io/demo-3d-animate/) | Realization of 3D effect of page blocks on mouse movement and animated cursor using gsap (GreenSock) |
-| 3 | [Gallery scroll](https://github.com/systemshock89/demo-gallery-scroll) | [Demo](https://systemshock89.github.io/demo-gallery-scroll/) | Smooth pop-out of page elements when scrolling |
-| 4 | [3D-scroll](https://github.com/systemshock89/demo-3d-scroll) | [Demo](https://systemshock89.github.io/demo-3d-scroll/) | Page scrolling in depth, slides with images and videos of different sizes, button to turn on melody |
-| 5 | [Slider parallax](https://github.com/systemshock89/demo-slider-parallax) | [Demo](https://systemshock89.github.io/demo-slider-parallax/) | Slider with image layers parallax effect, particles on canvas |
-| 6 | [Scroll parallax](https://github.com/systemshock89/demo-scroll-parallax) | [Demo](https://systemshock89.github.io/demo-scroll-parallax/) | Scroll with parallax effect of different page layers |
-| 7 | [Lens effect](https://github.com/systemshock89/demo-lens-effect) | [Demo](https://systemshock89.github.io/demo-lens-effect/) | 3D-rotation effect on mouse movement, rain on canvas |
-| 8 | [Draggable gallery](https://github.com/systemshock89/demo-draggable-gallery) | [Demo](https://systemshock89.github.io/demo-draggable-gallery/) | Gallery with images in masonry layout, drag and drop scrolling, light/dark theme depends on OS selection |
-| 9 | [Scroll portfolio](https://github.com/systemshock89/demo-scroll-portfolio) | [Demo](https://systemshock89.github.io/demo-scroll-portfolio/) | Portfolio slider with mouse wheel scrolling |
-| 10 | [Floating image](https://github.com/systemshock89/demo-floating-image) | [Demo](https://systemshock89.github.io/demo-floating-image/) | Floating image appears when hovering over a section |
-| 11 | [3D-slider](https://github.com/systemshock89/demo-3d-slider) | [Demo](https://systemshock89.github.io/demo-3d-slider/) | Slider with pseudo 3D-images, glow and fog animation in the background |
-| 12 | [Form elements](https://github.com/systemshock89/demo-form-elements/) | [Demo](https://systemshock89.github.io/demo-form-elements/) | Realization light/dark theme on form elements: custom select, radio, checkox, saving entered data on page refresh |
+![Sergey K GitHub stats](https://github-readme-stats.vercel.app/api?username=systemshock89&show_icons=true&theme=catppuccin_latte )
 
 <!--
 **systemshock89/systemshock89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
