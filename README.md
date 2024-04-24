@@ -56,6 +56,8 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 ## 📈 Stats and widgets
 
 ![Sergey K GitHub stats](https://github-readme-stats.vercel.app/api?username=systemshock89&show_icons=true&theme=catppuccin_latte )
+<br>
+![Visits](https://komarev.com/ghpvc/?username=systemshock89)
 
 <!--
 **systemshock89/systemshock89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
