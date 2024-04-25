@@ -36,7 +36,8 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 | 8 | private (NDA) | [zavod-setok.ru](https://zavod-setok.ru/) | JS/HTML/SCSS/PHP/MySQL | Factory catalog, where products are shown as cards/table with filter by parameters |
 | 9 | private (NDA) | [kotel-suvorov.ru](https://kotel-suvorov.ru/) | JS/HTML/SCSS/PHP/MySQL | Online store of heating boilers |
 
-## ⛳️  My demos that I created to explore interesting new technologies
+## ⛳️  My demos 
+I'm experimenting with new and exciting technologies:
 
 | № | Repo | Demonstration | Description |
 | -- | -- | -- | -- |
