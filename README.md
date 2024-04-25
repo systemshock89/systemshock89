@@ -41,17 +41,17 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 | № | Repo | Demonstration | Description |
 | -- | -- | -- | -- |
 | 1 | [react-formik-example](https://github.com/systemshock89/react-formik-example) | [Demo](https://systemshock89.github.io/react-formik-example/) | React simple form with Formik and Yup |
-| 2 | [Miami slider](https://github.com/systemshock89/demo-miami-slider) | [Demo](https://systemshock89.github.io/demo-miami-slider/) | Slider with parallax effect, slides highlighting, smooth scrolling with mouse wheel, zooming of images when clicked |
-| 3 | [3D-animate](https://github.com/systemshock89/demo-3d-animate) | [Demo](https://systemshock89.github.io/demo-3d-animate/) | Realization of 3D effect of page blocks on mouse movement and animated cursor using gsap (GreenSock) |
-| 4 | [Gallery scroll](https://github.com/systemshock89/demo-gallery-scroll) | [Demo](https://systemshock89.github.io/demo-gallery-scroll/) | Smooth pop-out of page elements when scrolling |
-| 5 | [3D-scroll](https://github.com/systemshock89/demo-3d-scroll) | [Demo](https://systemshock89.github.io/demo-3d-scroll/) | Page scrolling in depth, slides with images and videos of different sizes, button to turn on melody |
-| 6 | [Slider parallax](https://github.com/systemshock89/demo-slider-parallax) | [Demo](https://systemshock89.github.io/demo-slider-parallax/) | Slider with image layers parallax effect, particles on canvas |
-| 7 | [Scroll parallax](https://github.com/systemshock89/demo-scroll-parallax) | [Demo](https://systemshock89.github.io/demo-scroll-parallax/) | Scroll with parallax effect of different page layers |
-| 8 | [Lens effect](https://github.com/systemshock89/demo-lens-effect) | [Demo](https://systemshock89.github.io/demo-lens-effect/) | 3D-rotation effect on mouse movement, rain on canvas |
-| 9 | [Draggable gallery](https://github.com/systemshock89/demo-draggable-gallery) | [Demo](https://systemshock89.github.io/demo-draggable-gallery/) | Gallery with images in masonry layout, drag and drop scrolling, light/dark theme depends on OS selection |
-| 10 | [Scroll portfolio](https://github.com/systemshock89/demo-scroll-portfolio) | [Demo](https://systemshock89.github.io/demo-scroll-portfolio/) | Portfolio slider with mouse wheel scrolling |
-| 11 | [Floating image](https://github.com/systemshock89/demo-floating-image) | [Demo](https://systemshock89.github.io/demo-floating-image/) | Floating image appears when hovering over a section |
-| 12 | [3D-slider](https://github.com/systemshock89/demo-3d-slider) | [Demo](https://systemshock89.github.io/demo-3d-slider/) | Slider with pseudo 3D-images, glow and fog animation in the background |
+| 2 | [Page scroll animation](https://github.com/systemshock89/demo-page-scroll-animation) | [Demo](https://systemshock89.github.io/demo-page-scroll-animation/) | Smooth pop-out of page elements when scrolling |
+| 3 | [3D-scroll](https://github.com/systemshock89/demo-3d-scroll) | [Demo](https://systemshock89.github.io/demo-3d-scroll/) | Page scrolling in depth, slides with images and videos of different sizes, button to turn on melody |
+| 4 | [Scroll parallax](https://github.com/systemshock89/demo-scroll-parallax) | [Demo](https://systemshock89.github.io/demo-scroll-parallax/) | Scroll with parallax effect of different page layers |
+| 5 | [3D moving page](https://github.com/systemshock89/demo-3d-moving-page) | [Demo](https://systemshock89.github.io/demo-3d-moving-page/) | 3D animate elements on page when mouse move and custom cursor (with hover in links) with gsap (GreenSock) |
+| 6 | [Lens effect](https://github.com/systemshock89/demo-lens-effect) | [Demo](https://systemshock89.github.io/demo-lens-effect/) | 3D-rotation effect on mouse movement, rain on canvas |
+| 7 | [Miami slider](https://github.com/systemshock89/demo-miami-slider) | [Demo](https://systemshock89.github.io/demo-miami-slider/) | Slider with parallax effect, slides highlighting, smooth scrolling with mouse wheel, zooming of images when clicked |
+| 8 | [Slider parallax](https://github.com/systemshock89/demo-slider-parallax) | [Demo](https://systemshock89.github.io/demo-slider-parallax/) | Slider with image layers parallax effect, particles on canvas |
+| 9 | [3D-slider](https://github.com/systemshock89/demo-3d-slider) | [Demo](https://systemshock89.github.io/demo-3d-slider/) | Slider with pseudo 3D-images, glow and fog animation in the background |
+| 10 | [Multiple vertical sliders](https://github.com/systemshock89/multiple-vertical-sliders) | [Demo](https://systemshock89.github.io/multiple-vertical-sliders/) | Portfolio slider with mouse wheel scrolling |
+| 11 | [Draggable gallery](https://github.com/systemshock89/demo-draggable-gallery) | [Demo](https://systemshock89.github.io/demo-draggable-gallery/) | Gallery with images in masonry layout, drag and drop scrolling, light/dark theme depends on OS selection |
+| 12 | [Floating image](https://github.com/systemshock89/demo-floating-image) | [Demo](https://systemshock89.github.io/demo-floating-image/) | Floating image appears when hovering over a section |
 | 13 | [Form elements](https://github.com/systemshock89/demo-form-elements/) | [Demo](https://systemshock89.github.io/demo-form-elements/) | Realization light/dark theme on form elements: custom select, radio, checkox, saving entered data on page refresh |
 
 ## 📈 Stats and widgets
