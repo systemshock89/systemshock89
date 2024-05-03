@@ -43,7 +43,7 @@ I'm experimenting with new and exciting technologies:
 | № | Repo | Demonstration | Description |
 | -- | -- | -- | -- |
 | 1 | [react-formik-example](https://github.com/systemshock89/react-formik-example) | [Demo](https://systemshock89.github.io/react-formik-example/) | React simple form with Formik and Yup |
-| 2 | [demo-wave-hover-effect](https://github.com/systemshock89/demo-wave-hover-effect) | [Demo](https://systemshock89.github.io/demo-wave-hover-effect/) | Wave hover effect on images |
+| 2 | [Wave hover effect](https://github.com/systemshock89/demo-wave-hover-effect) | [Demo](https://systemshock89.github.io/demo-wave-hover-effect/) | Wave hover effect on images |
 | 3 | [Page scroll animation](https://github.com/systemshock89/demo-page-scroll-animation) | [Demo](https://systemshock89.github.io/demo-page-scroll-animation/) | Smooth pop-out of page elements when scrolling |
 | 4 | [3D-scroll](https://github.com/systemshock89/demo-3d-scroll) | [Demo](https://systemshock89.github.io/demo-3d-scroll/) | Page scrolling in depth, slides with images and videos of different sizes, button to turn on melody |
 | 5 | [Scroll parallax](https://github.com/systemshock89/demo-scroll-parallax) | [Demo](https://systemshock89.github.io/demo-scroll-parallax/) | Scroll with parallax effect of different page layers |
