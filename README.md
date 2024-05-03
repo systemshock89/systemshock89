@@ -13,6 +13,7 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## ⚡ Tools
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Green Sock](https://img.shields.io/badge/greensock-%2388CE02.svg?&style=for-the-badge&logo=greensock&logoColor=black)
@@ -42,18 +43,19 @@ I'm experimenting with new and exciting technologies:
 | № | Repo | Demonstration | Description |
 | -- | -- | -- | -- |
 | 1 | [react-formik-example](https://github.com/systemshock89/react-formik-example) | [Demo](https://systemshock89.github.io/react-formik-example/) | React simple form with Formik and Yup |
-| 2 | [Page scroll animation](https://github.com/systemshock89/demo-page-scroll-animation) | [Demo](https://systemshock89.github.io/demo-page-scroll-animation/) | Smooth pop-out of page elements when scrolling |
-| 3 | [3D-scroll](https://github.com/systemshock89/demo-3d-scroll) | [Demo](https://systemshock89.github.io/demo-3d-scroll/) | Page scrolling in depth, slides with images and videos of different sizes, button to turn on melody |
-| 4 | [Scroll parallax](https://github.com/systemshock89/demo-scroll-parallax) | [Demo](https://systemshock89.github.io/demo-scroll-parallax/) | Scroll with parallax effect of different page layers |
-| 5 | [3D moving page](https://github.com/systemshock89/demo-3d-moving-page) | [Demo](https://systemshock89.github.io/demo-3d-moving-page/) | 3D animate elements on page when mouse move and custom cursor (with hover in links) with gsap (GreenSock) |
-| 6 | [Lens effect](https://github.com/systemshock89/demo-lens-effect) | [Demo](https://systemshock89.github.io/demo-lens-effect/) | 3D-rotation effect on mouse movement, rain on canvas |
-| 7 | [Miami slider](https://github.com/systemshock89/demo-miami-slider) | [Demo](https://systemshock89.github.io/demo-miami-slider/) | Slider with parallax effect, slides highlighting, smooth scrolling with mouse wheel, zooming of images when clicked |
-| 8 | [Slider parallax](https://github.com/systemshock89/demo-slider-parallax) | [Demo](https://systemshock89.github.io/demo-slider-parallax/) | Slider with image layers parallax effect, particles on canvas |
-| 9 | [3D-slider](https://github.com/systemshock89/demo-3d-slider) | [Demo](https://systemshock89.github.io/demo-3d-slider/) | Slider with pseudo 3D-images, glow and fog animation in the background |
-| 10 | [Multiple vertical sliders](https://github.com/systemshock89/demo-multiple-vertical-sliders) | [Demo](https://systemshock89.github.io/demo-multiple-vertical-sliders/) | Portfolio slider with mouse wheel scrolling |
-| 11 | [Draggable gallery](https://github.com/systemshock89/demo-draggable-gallery) | [Demo](https://systemshock89.github.io/demo-draggable-gallery/) | Gallery with images in masonry layout, drag and drop scrolling, light/dark theme depends on OS selection |
-| 12 | [Floating image](https://github.com/systemshock89/demo-floating-image) | [Demo](https://systemshock89.github.io/demo-floating-image/) | Floating image appears when hovering over a section |
-| 13 | [Form elements](https://github.com/systemshock89/demo-form-elements/) | [Demo](https://systemshock89.github.io/demo-form-elements/) | Realization light/dark theme on form elements: custom select, radio, checkox, saving entered data on page refresh |
+| 2 | [demo-wave-hover-effect](https://github.com/systemshock89/demo-wave-hover-effect) | [Demo](https://systemshock89.github.io/demo-wave-hover-effect/) | Wave hover effect on images |
+| 3 | [Page scroll animation](https://github.com/systemshock89/demo-page-scroll-animation) | [Demo](https://systemshock89.github.io/demo-page-scroll-animation/) | Smooth pop-out of page elements when scrolling |
+| 4 | [3D-scroll](https://github.com/systemshock89/demo-3d-scroll) | [Demo](https://systemshock89.github.io/demo-3d-scroll/) | Page scrolling in depth, slides with images and videos of different sizes, button to turn on melody |
+| 5 | [Scroll parallax](https://github.com/systemshock89/demo-scroll-parallax) | [Demo](https://systemshock89.github.io/demo-scroll-parallax/) | Scroll with parallax effect of different page layers |
+| 6 | [3D moving page](https://github.com/systemshock89/demo-3d-moving-page) | [Demo](https://systemshock89.github.io/demo-3d-moving-page/) | 3D animate elements on page when mouse move and custom cursor (with hover in links) with gsap (GreenSock) |
+| 7 | [Lens effect](https://github.com/systemshock89/demo-lens-effect) | [Demo](https://systemshock89.github.io/demo-lens-effect/) | 3D-rotation effect on mouse movement, rain on canvas |
+| 8 | [Miami slider](https://github.com/systemshock89/demo-miami-slider) | [Demo](https://systemshock89.github.io/demo-miami-slider/) | Slider with parallax effect, slides highlighting, smooth scrolling with mouse wheel, zooming of images when clicked |
+| 9 | [Slider parallax](https://github.com/systemshock89/demo-slider-parallax) | [Demo](https://systemshock89.github.io/demo-slider-parallax/) | Slider with image layers parallax effect, particles on canvas |
+| 10 | [3D-slider](https://github.com/systemshock89/demo-3d-slider) | [Demo](https://systemshock89.github.io/demo-3d-slider/) | Slider with pseudo 3D-images, glow and fog animation in the background |
+| 11 | [Multiple vertical sliders](https://github.com/systemshock89/demo-multiple-vertical-sliders) | [Demo](https://systemshock89.github.io/demo-multiple-vertical-sliders/) | Portfolio slider with mouse wheel scrolling |
+| 12 | [Draggable gallery](https://github.com/systemshock89/demo-draggable-gallery) | [Demo](https://systemshock89.github.io/demo-draggable-gallery/) | Gallery with images in masonry layout, drag and drop scrolling, light/dark theme depends on OS selection |
+| 13 | [Floating image](https://github.com/systemshock89/demo-floating-image) | [Demo](https://systemshock89.github.io/demo-floating-image/) | Floating image appears when hovering over a section |
+| 14 | [Form elements](https://github.com/systemshock89/demo-form-elements/) | [Demo](https://systemshock89.github.io/demo-form-elements/) | Realization light/dark theme on form elements: custom select, radio, checkox, saving entered data on page refresh |
 
 ## 📈 Stats and widgets
 
