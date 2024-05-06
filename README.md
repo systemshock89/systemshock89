@@ -17,6 +17,7 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Green Sock](https://img.shields.io/badge/greensock-%2388CE02.svg?&style=for-the-badge&logo=greensock&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-%23000000.svg?&style=for-the-badge&logo=phpstorm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
