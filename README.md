@@ -1,7 +1,7 @@
 ### Hi, I'm Sergey <img src="https://github.com/systemshock89/systemshock89/raw/main/img/Hi.gif" height="32">
 I am a **Frontend developer (React, Redux, JS)** with extensive experience **css/html** coding and **backend** developer background.
 
-## 🛠️ My stack
+## ⚙️ My stack
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
@@ -23,6 +23,10 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)
+
+## 🧱 Legacy
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 💻 My projects
 | № | Repo | Demo | Stack | Description |
