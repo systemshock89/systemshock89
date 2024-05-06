@@ -15,7 +15,6 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 ## ⚡ Tools
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Green Sock](https://img.shields.io/badge/greensock-%2388CE02.svg?&style=for-the-badge&logo=greensock&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-%23000000.svg?&style=for-the-badge&logo=phpstorm&logoColor=white)
@@ -27,6 +26,7 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 ## 🧱 Legacy
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
 ## 💻 My projects
 | № | Repo | Demo | Stack | Description |
