@@ -55,13 +55,14 @@ I'm experimenting with new and exciting technologies:
 | 6 | [Wave hover effect](https://github.com/systemshock89/demo-wave-hover-effect) | [Demo](https://systemshock89.github.io/demo-wave-hover-effect/) | Wave hover effect on images |
 | 7 | [3D moving page](https://github.com/systemshock89/demo-3d-moving-page) | [Demo](https://systemshock89.github.io/demo-3d-moving-page/) | 3D animate elements on page when mouse move and custom cursor (with hover in links) with gsap (GreenSock) |
 | 8 | [Lens effect](https://github.com/systemshock89/demo-lens-effect) | [Demo](https://systemshock89.github.io/demo-lens-effect/) | 3D-rotation effect on mouse movement, rain on canvas |
-| 9 | [Miami slider](https://github.com/systemshock89/demo-miami-slider) | [Demo](https://systemshock89.github.io/demo-miami-slider/) | Slider with parallax effect, slides highlighting, smooth scrolling with mouse wheel, zooming of images when clicked |
-| 10 | [Slider parallax](https://github.com/systemshock89/demo-slider-parallax) | [Demo](https://systemshock89.github.io/demo-slider-parallax/) | Slider with image layers parallax effect, particles on canvas |
-| 11 | [3D-slider](https://github.com/systemshock89/demo-3d-slider) | [Demo](https://systemshock89.github.io/demo-3d-slider/) | Slider with pseudo 3D-images, glow and fog animation in the background |
-| 12 | [Multiple vertical sliders](https://github.com/systemshock89/demo-multiple-vertical-sliders) | [Demo](https://systemshock89.github.io/demo-multiple-vertical-sliders/) | Portfolio slider with mouse wheel scrolling |
-| 13 | [Draggable gallery](https://github.com/systemshock89/demo-draggable-gallery) | [Demo](https://systemshock89.github.io/demo-draggable-gallery/) | Gallery with images in masonry layout, drag and drop scrolling, light/dark theme depends on OS selection |
-| 14 | [Floating image](https://github.com/systemshock89/demo-floating-image) | [Demo](https://systemshock89.github.io/demo-floating-image/) | Floating image appears when hovering over a section |
-| 15 | [Form elements](https://github.com/systemshock89/demo-form-elements/) | [Demo](https://systemshock89.github.io/demo-form-elements/) | Realization light/dark theme on form elements: custom select, radio, checkox, saving entered data on page refresh |
+| 9 | [Slider animation](https://github.com/systemshock89/demo-slider-animation) | [Demo](https://systemshock89.github.io/demo-slider-animation/) | Smooth video animation when scrolling the slider |
+| 10 | [Miami slider](https://github.com/systemshock89/demo-miami-slider) | [Demo](https://systemshock89.github.io/demo-miami-slider/) | Slider with parallax effect, slides highlighting, smooth scrolling with mouse wheel, zooming of images when clicked |
+| 11 | [Slider parallax](https://github.com/systemshock89/demo-slider-parallax) | [Demo](https://systemshock89.github.io/demo-slider-parallax/) | Slider with image layers parallax effect, particles on canvas |
+| 12 | [3D-slider](https://github.com/systemshock89/demo-3d-slider) | [Demo](https://systemshock89.github.io/demo-3d-slider/) | Slider with pseudo 3D-images, glow and fog animation in the background |
+| 13 | [Multiple vertical sliders](https://github.com/systemshock89/demo-multiple-vertical-sliders) | [Demo](https://systemshock89.github.io/demo-multiple-vertical-sliders/) | Portfolio slider with mouse wheel scrolling |
+| 14 | [Draggable gallery](https://github.com/systemshock89/demo-draggable-gallery) | [Demo](https://systemshock89.github.io/demo-draggable-gallery/) | Gallery with images in masonry layout, drag and drop scrolling, light/dark theme depends on OS selection |
+| 15 | [Floating image](https://github.com/systemshock89/demo-floating-image) | [Demo](https://systemshock89.github.io/demo-floating-image/) | Floating image appears when hovering over a section |
+| 16 | [Form elements](https://github.com/systemshock89/demo-form-elements/) | [Demo](https://systemshock89.github.io/demo-form-elements/) | Realization light/dark theme on form elements: custom select, radio, checkox, saving entered data on page refresh |
 
 ## 📈 Stats and widgets
 
