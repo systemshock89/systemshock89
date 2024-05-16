@@ -43,7 +43,8 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 | 9 | private (NDA) | [kotel-suvorov.ru](https://kotel-suvorov.ru/) | JS/HTML/SCSS/PHP/MySQL | Online store of heating boilers |
 
 ## 📥 My demos 
-I'm experimenting with new and exciting technologies:
+I'm experimenting with new and exciting technologies.
+Some of them look awesome 😎
 
 | № | Repo | Demonstration | Description |
 | -- | -- | -- | -- |
@@ -63,6 +64,9 @@ I'm experimenting with new and exciting technologies:
 | 14 | [Draggable gallery](https://github.com/systemshock89/demo-draggable-gallery) | [Demo](https://systemshock89.github.io/demo-draggable-gallery/) | Gallery with images in masonry layout, drag and drop scrolling, light/dark theme depends on OS selection |
 | 15 | [Floating image](https://github.com/systemshock89/demo-floating-image) | [Demo](https://systemshock89.github.io/demo-floating-image/) | Floating image appears when hovering over a section |
 | 16 | [Form elements](https://github.com/systemshock89/demo-form-elements/) | [Demo](https://systemshock89.github.io/demo-form-elements/) | Realization light/dark theme on form elements: custom select, radio, checkox, saving entered data on page refresh |
+
+## 👨‍💻 My builds for quick start pet projects and more:
+[Vite starter simple](https://github.com/systemshock89/vite-starter-simple) and [Gulp starter simple](https://github.com/systemshock89/gulp-starter-simple)
 
 ## 📈 Stats and widgets
 
