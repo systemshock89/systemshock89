@@ -1,10 +1,11 @@
 ### Hi, I'm Sergey <img src="https://github.com/systemshock89/systemshock89/raw/main/img/Hi.gif" height="32">
-I am a **Frontend developer (React, Redux, JS)** with extensive experience **css/html** coding and **backend** developer background.
+I am a **Frontend Developer with expertise in React, Redux, TypeScript and JavaScript**, complemented by extensive experience in **JS, CSS and HTML**, as well as a solid background in **backend development**.
 
 ## ⚙️ My stack
 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -43,7 +44,7 @@ I am a **Frontend developer (React, Redux, JS)** with extensive experience **css
 | 9 | private (NDA) | [zavod-setok.ru](https://zavod-setok.ru/) | JS/HTML/SCSS/PHP/MySQL | Factory catalog, where products are shown as cards/table with filter by parameters |
 | 10 | private (NDA) | [kotel-suvorov.ru](https://kotel-suvorov.ru/) | JS/HTML/SCSS/PHP/MySQL | Online store of heating boilers |
 
-## 📥 My demos 
+## 📥 My demos and pet projects 
 I'm experimenting with new and exciting technologies.
 Some of them look awesome 😎
 
