@@ -10,8 +10,7 @@ I am a **Frontend Developer with expertise in React, Redux, TypeScript and JavaS
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
 ## ⚡ Tools
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -30,20 +29,18 @@ I am a **Frontend Developer with expertise in React, Redux, TypeScript and JavaS
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## 💻 My projects
 | № | Repo | Demo | Stack | Description |
 | -- | -- | -- | -- | -- |
-| 1 | [Project](https://github.com/systemshock89/react-redux-hero-admin-panel) | [react-redux-hero-admin-panel](https://systemshock89.github.io/react-redux-hero-admin-panel/) | React/Redux/JS/HTML/SCSS | Hero admin panel with functions show, add, delete and filter list of heroes in DB.<br> Used React, React-redux, Redux-toolkit and pattern when action creators and reducers combined in slice |
-| 2 | [Project](https://github.com/systemshock89/react-marvel) | [react-marvel](https://systemshock89.github.io/react-marvel/) | React/JS/HTML/SCSS | React Marvel information portal - SPA with multiple pages structure |
-| 3 | [Project](https://github.com/systemshock89/react-employees) | [react-employees](https://systemshock89.github.io/react-employees/) | React/JS/HTML/SCSS | Simple SPA with sorting, adding/removing an employee |
-| 4 | [Frontend only](https://github.com/systemshock89/monino-frontend) | **Site:** [monino-perevalka.ru](https://monino-perevalka.ru/) <br> **HTML pages:** [Index page](https://systemshock89.github.io/monino-frontend/), [Services](https://systemshock89.github.io/monino-frontend/services.html), [Services inner](https://systemshock89.github.io/monino-frontend/services-inner.html), [Catalog](https://systemshock89.github.io/monino-frontend/catalog.html), [Product](https://systemshock89.github.io/monino-frontend/product.html) | JS/HTML/SCSS/PHP/MySQL | Site of sale nonmetallic materials |
-| 5 | private (NDA) | [present-stroy.ru](https://present-stroy.ru/) | JS/HTML/SCSS/PHP/MySQL | Construction company,<br> JS with modules, optimized for fast page load speed and SEO |
+| 1 | private (NDA) | [ipaints.spb.ru](https://ipaints.spb.ru/) | JS/HTML/SCSS/PHP/MySQL | Interior design studio |
+| 2 | [Frontend](https://github.com/systemshock89/monino-frontend) | **Site:** [monino-perevalka.ru](https://monino-perevalka.ru/) <br> **HTML pages:** [Index page](https://systemshock89.github.io/monino-frontend/), [Services](https://systemshock89.github.io/monino-frontend/services.html), [Services inner](https://systemshock89.github.io/monino-frontend/services-inner.html), [Catalog](https://systemshock89.github.io/monino-frontend/catalog.html), [Product](https://systemshock89.github.io/monino-frontend/product.html) | JS/HTML/SCSS/PHP/MySQL | Site of sale nonmetallic materials |
+| 3 | private (NDA) | [present-stroy.ru](https://present-stroy.ru/) | JS/HTML/SCSS/PHP/MySQL | Construction company |
+| 4 | private (NDA) | [concoste.com](https://concoste.com/) | JS/HTML/SCSS/PHP/MySQL | Furniture catalog with animated elements |
+| 5 | private (NDA) | [zavod-setok.ru](https://zavod-setok.ru/) | JS/HTML/SCSS/PHP/MySQL | Factory catalog, where products are shown as cards/table with filter by parameters |
 | 6 | private (NDA) | [doctorportenko.ru](https://doctorportenko.ru/) | JS/HTML/SCSS/PHP/MySQL | Dental clinic |
-| 7 | [Project](https://github.com/systemshock89/js-app-food) | [Food](https://systemshock89.github.io/js-app-food/) | JS/HTML/SCSS | Service food delivery on native js |
-| 8 | private (NDA) | [concoste.com](https://concoste.com/) | JS/HTML/SCSS/PHP/MySQL | Furniture catalog with animated elements |
-| 9 | private (NDA) | [zavod-setok.ru](https://zavod-setok.ru/) | JS/HTML/SCSS/PHP/MySQL | Factory catalog, where products are shown as cards/table with filter by parameters |
-| 10 | private (NDA) | [kotel-suvorov.ru](https://kotel-suvorov.ru/) | JS/HTML/SCSS/PHP/MySQL | Online store of heating boilers |
 
 ## 📥 My demos and pet projects 
 I'm experimenting with new and exciting technologies.
@@ -51,7 +48,6 @@ Some of them look awesome 😎
 
 | № | Repo | Demonstration | Description |
 | -- | -- | -- | -- |
-| 1 | [react-formik-example](https://github.com/systemshock89/react-formik-example) | [Demo](https://systemshock89.github.io/react-formik-example/) | React simple form with Formik and Yup |
 | 2 | [Scrolling 3D-scene](https://github.com/systemshock89/demo-scrolling-3d-scene) | [Demo](https://systemshock89.github.io/demo-scrolling-3d-scene/) | Scrolling animation: moving deeper into the scene. Blocks move at different speeds, text fade in/fade out. |
 | 3 | [Page scroll animation](https://github.com/systemshock89/demo-page-scroll-animation) | [Demo](https://systemshock89.github.io/demo-page-scroll-animation/) | Smooth pop-out of page elements when scrolling |
 | 4 | [3D-scroll](https://github.com/systemshock89/demo-3d-scroll) | [Demo](https://systemshock89.github.io/demo-3d-scroll/) | Page scrolling in depth, slides with images and videos of different sizes, button to turn on melody |
@@ -67,6 +63,14 @@ Some of them look awesome 😎
 | 14 | [Draggable gallery](https://github.com/systemshock89/demo-draggable-gallery) | [Demo](https://systemshock89.github.io/demo-draggable-gallery/) | Gallery with images in masonry layout, drag and drop scrolling, light/dark theme depends on OS selection |
 | 15 | [Floating image](https://github.com/systemshock89/demo-floating-image) | [Demo](https://systemshock89.github.io/demo-floating-image/) | Floating image appears when hovering over a section |
 | 16 | [Form elements](https://github.com/systemshock89/demo-form-elements/) | [Demo](https://systemshock89.github.io/demo-form-elements/) | Realization light/dark theme on form elements: custom select, radio, checkox, saving entered data on page refresh |
+
+## 👨‍🎓 My training projects
+| № | Repo | Demo | Stack | Description |
+| -- | -- | -- | -- | -- |
+| 1 | [Project](https://github.com/systemshock89/react-redux-hero-admin-panel) | [react-redux-hero-admin-panel](https://systemshock89.github.io/react-redux-hero-admin-panel/) | React/Redux/JS/HTML/SCSS | Hero admin panel with functions show, add, delete and filter list of heroes in DB.<br> Used React, React-redux, Redux-toolkit and pattern when action creators and reducers combined in slice |
+| 2 | [Project](https://github.com/systemshock89/react-marvel) | [react-marvel](https://systemshock89.github.io/react-marvel/) | React/JS/HTML/SCSS | React Marvel information portal - SPA with multiple pages structure |
+| 3 | [Project](https://github.com/systemshock89/react-employees) | [react-employees](https://systemshock89.github.io/react-employees/) | React/JS/HTML/SCSS | Simple SPA with sorting, adding/removing an employee |
+| 4 | [Project](https://github.com/systemshock89/react-formik-example) | [react-formik-example](https://systemshock89.github.io/react-formik-example/) | React/Formik | React simple form with Formik and Yup |
 
 ## 👨‍💻 My builds for quick start pet projects and more:
 [Vite starter simple](https://github.com/systemshock89/vite-starter-simple) and [Gulp starter simple](https://github.com/systemshock89/gulp-starter-simple)
