@@ -35,12 +35,13 @@ I am a **Frontend Developer with expertise in React, Redux, TypeScript and JavaS
 ## 💻 My projects
 | № | Repo | Demo | Stack | Description |
 | -- | -- | -- | -- | -- |
-| 1 | private (NDA) | [ipaints.spb.ru](https://ipaints.spb.ru/) | JS/HTML/SCSS/PHP/MySQL | Interior design studio |
-| 2 | [Frontend](https://github.com/systemshock89/monino-frontend) | **Site:** [monino-perevalka.ru](https://monino-perevalka.ru/) <br> **HTML pages:** [Index page](https://systemshock89.github.io/monino-frontend/), [Services](https://systemshock89.github.io/monino-frontend/services.html), [Services inner](https://systemshock89.github.io/monino-frontend/services-inner.html), [Catalog](https://systemshock89.github.io/monino-frontend/catalog.html), [Product](https://systemshock89.github.io/monino-frontend/product.html) | JS/HTML/SCSS/PHP/MySQL | Site of sale nonmetallic materials |
-| 3 | private (NDA) | [present-stroy.ru](https://present-stroy.ru/) | JS/HTML/SCSS/PHP/MySQL | Construction company |
-| 4 | private (NDA) | [concoste.com](https://concoste.com/) | JS/HTML/SCSS/PHP/MySQL | Furniture catalog with animated elements |
-| 5 | private (NDA) | [zavod-setok.ru](https://zavod-setok.ru/) | JS/HTML/SCSS/PHP/MySQL | Factory catalog, where products are shown as cards/table with filter by parameters |
-| 6 | private (NDA) | [doctorportenko.ru](https://doctorportenko.ru/) | JS/HTML/SCSS/PHP/MySQL | Dental clinic |
+| 1 | [Frontend](https://github.com/systemshock89/phobos-frontend) | **HTML pages:** [Index page](https://systemshock89.github.io/phobos-frontend/), [Catalog](https://systemshock89.github.io/phobos-frontend/catalog.html), [Vacancy](https://systemshock89.github.io/phobos-frontend/vacancy.html) | JS/HTML/SCSS/PHP/MySQL | Recruitment agency |
+| 2 | private (NDA) | [ipaints.spb.ru](https://ipaints.spb.ru/) | JS/HTML/SCSS/PHP/MySQL | Interior design studio |
+| 3 | [Frontend](https://github.com/systemshock89/monino-frontend) | **Site:** [monino-perevalka.ru](https://monino-perevalka.ru/) <br> **HTML pages:** [Index page](https://systemshock89.github.io/monino-frontend/), [Services](https://systemshock89.github.io/monino-frontend/services.html), [Services inner](https://systemshock89.github.io/monino-frontend/services-inner.html), [Catalog](https://systemshock89.github.io/monino-frontend/catalog.html), [Product](https://systemshock89.github.io/monino-frontend/product.html) | JS/HTML/SCSS/PHP/MySQL | Site of sale nonmetallic materials |
+| 4 | private (NDA) | [present-stroy.ru](https://present-stroy.ru/) | JS/HTML/SCSS/PHP/MySQL | Construction company |
+| 5 | private (NDA) | [concoste.com](https://concoste.com/) | JS/HTML/SCSS/PHP/MySQL | Furniture catalog with animated elements |
+| 6 | private (NDA) | [zavod-setok.ru](https://zavod-setok.ru/) | JS/HTML/SCSS/PHP/MySQL | Factory catalog, where products are shown as cards/table with filter by parameters |
+| 7 | private (NDA) | [doctorportenko.ru](https://doctorportenko.ru/) | JS/HTML/SCSS/PHP/MySQL | Dental clinic |
 
 ## 📥 My demos and pet projects 
 I'm experimenting with new and exciting technologies.
