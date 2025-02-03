@@ -72,6 +72,7 @@ Some of them look awesome 😎
 | 2 | [Project](https://github.com/systemshock89/react-marvel) | [react-marvel](https://systemshock89.github.io/react-marvel/) | React/JS/HTML/SCSS | React Marvel information portal - SPA with multiple pages structure |
 | 3 | [Project](https://github.com/systemshock89/react-employees) | [react-employees](https://systemshock89.github.io/react-employees/) | React/JS/HTML/SCSS | Simple SPA with sorting, adding/removing an employee |
 | 4 | [Project](https://github.com/systemshock89/react-formik-example) | [react-formik-example](https://systemshock89.github.io/react-formik-example/) | React/Formik | React simple form with Formik and Yup |
+| 5 | [Project](https://github.com/systemshock89/js-app-food) | [Food](https://systemshock89.github.io/js-app-food/) | JS/HTML/SCSS | Delivery service: slider, calculator, cards, forms, modals, timer and tabs on native JS   |
 
 ## 👨‍💻 My builds for quick start pet projects and more:
 [Vite starter simple](https://github.com/systemshock89/vite-starter-simple) and [Gulp starter simple](https://github.com/systemshock89/gulp-starter-simple)
