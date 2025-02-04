@@ -35,7 +35,7 @@ I am a **Frontend Developer with expertise in React, Redux, TypeScript and JavaS
 ## 💻 My projects
 | № | Repo | Demo | Stack | Description |
 | -- | -- | -- | -- | -- |
-| 1 | [Frontend](https://github.com/systemshock89/phobos-frontend) | **HTML pages:** [Index page](https://systemshock89.github.io/phobos-frontend/), [Catalog](https://systemshock89.github.io/phobos-frontend/catalog.html), [Vacancy](https://systemshock89.github.io/phobos-frontend/vacancy.html) | JS/HTML/SCSS/PHP/MySQL | Recruitment agency |
+| 1 | [Frontend](https://github.com/systemshock89/phobos-frontend) | **Site:** [chazfobos.ru](https://chazfobos.ru/) <br> **HTML pages:** [Index page](https://systemshock89.github.io/phobos-frontend/), [Catalog](https://systemshock89.github.io/phobos-frontend/catalog.html), [Vacancy](https://systemshock89.github.io/phobos-frontend/vacancy.html) | JS/HTML/SCSS/PHP/MySQL | Recruitment agency |
 | 2 | private (NDA) | [ipaints.spb.ru](https://ipaints.spb.ru/) | JS/HTML/SCSS/PHP/MySQL | Interior design studio |
 | 3 | [Frontend](https://github.com/systemshock89/monino-frontend) | **Site:** [monino-perevalka.ru](https://monino-perevalka.ru/) <br> **HTML pages:** [Index page](https://systemshock89.github.io/monino-frontend/), [Services](https://systemshock89.github.io/monino-frontend/services.html), [Services inner](https://systemshock89.github.io/monino-frontend/services-inner.html), [Catalog](https://systemshock89.github.io/monino-frontend/catalog.html), [Product](https://systemshock89.github.io/monino-frontend/product.html) | JS/HTML/SCSS/PHP/MySQL | Site of sale nonmetallic materials |
 | 4 | private (NDA) | [present-stroy.ru](https://present-stroy.ru/) | JS/HTML/SCSS/PHP/MySQL | Construction company |
